@@ -10,7 +10,7 @@ Ele permite extrair texto de **imagens (PNG/JPG)** ou **arquivos PDF**.
 - **[Python 3.10+]**
 - **[Streamlit](https://streamlit.io/)** — interface web interativa
 - **[Tesseract OCR](https://github.com/tesseract-ocr/tesseract)** — motor de reconhecimento de texto
-- **[PyMuPDF (fitz)](https://pymupdf.readthedocs.io/)** — leitura e renderização de PDFs (sem Poppler)
+- **[PyMuPDF (fitz)](https://pymupdf.readthedocs.io/)** — leitura e renderização de PDFs 
 - **[Pillow (PIL)](https://pillow.readthedocs.io/)** — manipulação de imagens
 - **[OpenCV](https://opencv.org/)** — pré-processamento (binarização e limpeza de ruído)
 
