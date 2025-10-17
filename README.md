@@ -24,3 +24,13 @@ Ele permite extrair texto de **imagens (PNG/JPG)** ou **arquivos PDF**.
 ✅ Exibição das páginas processadas  
 ✅ Visualização e edição do texto extraído  
 ✅ Download do resultado em arquivo `.txt`
+
+
+### Tela inicial
+![Tela inicial](img/img01.png)
+
+### Upload e extração de texto
+![Upload de PDF ou imagem](img/img02.png)
+
+### Resultado do OCR
+![Texto extraído e botão de download](img/result.png)
