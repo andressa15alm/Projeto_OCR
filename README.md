@@ -27,10 +27,10 @@ Ele permite extrair texto de **imagens (PNG/JPG)** ou **arquivos PDF**.
 
 
 ### Tela inicial
-![Tela inicial](img/img01.png)
+![Tela inicial](img/img01.PNG)
 
 ### Upload e extração de texto
-![Upload de PDF ou imagem](img/img02.png)
+![Upload de PDF ou imagem](img/img02.PNG)
 
 ### Resultado do OCR
-![Texto extraído e botão de download](img/result.png)
+![Texto extraído e botão de download](img/result.PNG)
